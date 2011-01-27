@@ -1,0 +1,18 @@
+This is the miniproject of an online blackboard. The users conect and see a
+text area which is possible to edit and if an user edits all others see the edition 
+in real time.
+
+It only works correctly in chromium but maybe with a few changes would work in firefox.
+
+This code is free software you can redistribute but you must mention the source, please :P
+
+z4m0
+
+known issues:
+My test server blocked us because it thought that we were bots. To avoid this I've changed
+the time between XMLHttpRequests from 500ms to 1500ms in the file static/functions.js
+I can't test if it works because I'm blocked for now! :(
+
+Aquest és el miniprojecte d'una pissarra colaborativa entre usuaris. Els usuaris es
+conecten a la pàgina i veuen les modificacions en temps real que fan els altres. Ells 
+també poden editar el text.

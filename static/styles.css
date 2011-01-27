@@ -1,0 +1,5 @@
+@CHARSET "UTF-8";
+input[type="text"]{
+	 border: solid 1px;
+	 width: 1000px;
+}
