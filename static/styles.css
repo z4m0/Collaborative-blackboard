@@ -1,5 +1,19 @@
 @CHARSET "UTF-8";
-input[type="text"]{
-	 border: solid 1px;
-	 width: 1000px;
+#pissarra{
+	width: 550px;
+	height: 570px;
+	border: 1px solid;	
+}
+div.right {
+	position: absolute;
+	top: 10px;
+	left: 600px;
+	width: 400px;
+}
+
+div.bottom {
+	position: absolute;
+	bottom: 10px;
+	text-align: center;
+	width: 99%;
 }
